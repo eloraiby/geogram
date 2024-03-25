@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/test_convex_cell shape=file algo:predicates=exact /home/runner/work/geogram/geogram/tests/data/ConvexCell/sphere_100.xyz</line>
 </preamble>
 
-<pid>7286</pid>
-<ppid>6841</ppid>
+<pid>7071</pid>
+<ppid>6846</ppid>
 <tool>memcheck</tool>
 
 <args>
