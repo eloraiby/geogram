@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/intersect remove_internal_shells=true /home/runner/work/geogram/geogram/tests/data/Intersections/cube_with_8_spheres.obj</line>
 </preamble>
 
-<pid>12447</pid>
-<ppid>6589</ppid>
+<pid>12649</pid>
+<ppid>6798</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -42,7 +42,7 @@
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:01:37.341 </time>
+  <time>00:00:01:33.872 </time>
 </status>
 
 <error>
@@ -99,7 +99,7 @@
       <ip>0x52D6608</ip>
       <obj>/usr/lib/x86_64-linux-gnu/libpthread-2.31.so</obj>
       <fn>start_thread</fn>
-      <dir>/build/glibc-wuryBv/glibc-2.31/nptl</dir>
+      <dir>/build/glibc-e2p3jK/glibc-2.31/nptl</dir>
       <file>pthread_create.c</file>
       <line>477</line>
     </frame>
@@ -107,7 +107,7 @@
       <ip>0x51F9352</ip>
       <obj>/usr/lib/x86_64-linux-gnu/libc-2.31.so</obj>
       <fn>clone</fn>
-      <dir>/build/glibc-wuryBv/glibc-2.31/misc/../sysdeps/unix/sysv/linux/x86_64</dir>
+      <dir>/build/glibc-e2p3jK/glibc-2.31/misc/../sysdeps/unix/sysv/linux/x86_64</dir>
       <file>clone.S</file>
       <line>95</line>
     </frame>
