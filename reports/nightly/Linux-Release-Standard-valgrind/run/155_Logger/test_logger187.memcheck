@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/test_logger</line>
 </preamble>
 
-<pid>18304</pid>
-<ppid>12357</ppid>
+<pid>18515</pid>
+<ppid>12564</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -40,7 +40,7 @@
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:02.564 </time>
+  <time>00:00:00:07.465 </time>
 </status>
 
 <error>
@@ -97,7 +97,7 @@
       <ip>0x53B1608</ip>
       <obj>/usr/lib/x86_64-linux-gnu/libpthread-2.31.so</obj>
       <fn>start_thread</fn>
-      <dir>/build/glibc-e2p3jK/glibc-2.31/nptl</dir>
+      <dir>/build/glibc-LcI20x/glibc-2.31/nptl</dir>
       <file>pthread_create.c</file>
       <line>477</line>
     </frame>
@@ -105,7 +105,7 @@
       <ip>0x52D4352</ip>
       <obj>/usr/lib/x86_64-linux-gnu/libc-2.31.so</obj>
       <fn>clone</fn>
-      <dir>/build/glibc-e2p3jK/glibc-2.31/misc/../sysdeps/unix/sysv/linux/x86_64</dir>
+      <dir>/build/glibc-LcI20x/glibc-2.31/misc/../sysdeps/unix/sysv/linux/x86_64</dir>
       <file>clone.S</file>
       <line>95</line>
     </frame>
