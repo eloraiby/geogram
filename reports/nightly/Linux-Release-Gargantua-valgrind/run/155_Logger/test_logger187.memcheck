@@ -13,7 +13,7 @@
 </preamble>
 
 <pid>12689</pid>
-<ppid>6672</ppid>
+<ppid>6640</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -40,7 +40,7 @@
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:03.628 </time>
+  <time>00:00:00:07.505 </time>
 </status>
 
 <error>
