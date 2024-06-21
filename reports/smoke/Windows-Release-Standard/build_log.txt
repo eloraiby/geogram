@@ -1,4 +1,4 @@
-MSBuild version 17.8.5+b5265ef37 for .NET Framework
+MSBuild version 17.10.4+10fbfbf2e for .NET Framework
 
   1>Checking Build System
   Building Custom Rule D:/a/geogram/geogram/src/lib/geogram_gfx/third_party/CMakeLists.txt
@@ -24,6 +24,7 @@ MSBuild version 17.8.5+b5265ef37 for .NET Framework
   gzlib.c
   gzread.c
   gzwrite.c
+  infback.c
   inffast.c
   inflate.c
   inftrees.c
@@ -304,6 +305,9 @@ MSBuild version 17.8.5+b5265ef37 for .NET Framework
   lua_imgui.cpp
   lua_simple_application.cpp
   geogram_gfx.vcxproj -> D:\a\geogram\geogram\build\Windows\lib\Release\geogram_gfx.lib
+  Building Custom Rule D:/a/geogram/geogram/src/bin/geoCSG/CMakeLists.txt
+  main.cpp
+  geoCSG.vcxproj -> D:\a\geogram\geogram\build\Windows\bin\Release\geoCSG.exe
   Building Custom Rule D:/a/geogram/geogram/src/bin/geobox/CMakeLists.txt
   main.cpp
   geobox.vcxproj -> D:\a\geogram\geogram\build\Windows\bin\Release\geobox.exe
@@ -408,8 +412,8 @@ MSBuild version 17.8.5+b5265ef37 for .NET Framework
   libf2c_hl_gt.c
   libf2c_hl_le.c
   libf2c_hl_lt.c
-  libf2c_i_abs.c
   libf2c_i77vers.c
+  libf2c_i_abs.c
   libf2c_i_ceiling.c
   libf2c_i_dim.c
   libf2c_i_dnnt.c
@@ -816,8 +820,8 @@ MSBuild version 17.8.5+b5265ef37 for .NET Framework
   cutil.c
   dcolumn_bmod.c
   dcolumn_dfs.c
-  dcopy_to_ucol.c
   dcomplex.c
+  dcopy_to_ucol.c
   ddiagonal.c
   dgscon.c
   dgsequ.c
