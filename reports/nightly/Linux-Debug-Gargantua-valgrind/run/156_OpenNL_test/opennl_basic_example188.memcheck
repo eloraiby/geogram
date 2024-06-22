@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/bin/opennl_basic_example</line>
 </preamble>
 
-<pid>14555</pid>
-<ppid>6506</ppid>
+<pid>14438</pid>
+<ppid>6422</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -44,48 +44,48 @@
   <what>Invalid read of size 8</what>
   <stack>
     <frame>
-      <ip>0x4EC3759</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EC4959</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlCRSMatrixComputeSlices</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_matrix.c</file>
       <line>393</line>
     </frame>
     <frame>
-      <ip>0x4EC5591</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EC6791</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlCRSMatrixNewFromSparseMatrix</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_matrix.c</file>
       <line>931</line>
     </frame>
     <frame>
-      <ip>0x4EC58D1</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EC6AD1</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlMatrixCompress</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_matrix.c</file>
       <line>1004</line>
     </frame>
     <frame>
-      <ip>0x4EBBE4C</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EBD3E2</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlSetupPreconditioner</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_context.c</file>
       <line>206</line>
     </frame>
     <frame>
-      <ip>0x4EBC2A0</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EBD831</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlDefaultSolver</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_context.c</file>
       <line>313</line>
     </frame>
     <frame>
-      <ip>0x4EB5D3C</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EB7493</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlSolve</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_api.c</file>
@@ -108,7 +108,7 @@
       <line>238</line>
     </frame>
   </stack>
-  <auxwhat>Address 0x57cd978 is 0 bytes after a block of size 24 alloc'd</auxwhat>
+  <auxwhat>Address 0x57d9978 is 0 bytes after a block of size 24 alloc'd</auxwhat>
   <stack>
     <frame>
       <ip>0x483DD99</ip>
@@ -116,48 +116,48 @@
       <fn>calloc</fn>
     </frame>
     <frame>
-      <ip>0x4EC32B2</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EC44B2</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlCRSMatrixConstruct</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_matrix.c</file>
       <line>307</line>
     </frame>
     <frame>
-      <ip>0x4EC549D</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EC669D</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlCRSMatrixNewFromSparseMatrix</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_matrix.c</file>
       <line>914</line>
     </frame>
     <frame>
-      <ip>0x4EC58D1</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EC6AD1</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlMatrixCompress</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_matrix.c</file>
       <line>1004</line>
     </frame>
     <frame>
-      <ip>0x4EBBE4C</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EBD3E2</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlSetupPreconditioner</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_context.c</file>
       <line>206</line>
     </frame>
     <frame>
-      <ip>0x4EBC2A0</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EBD831</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlDefaultSolver</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_context.c</file>
       <line>313</line>
     </frame>
     <frame>
-      <ip>0x4EB5D3C</ip>
-      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.8.9-rc</obj>
+      <ip>0x4EB7493</ip>
+      <obj>/home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/lib/libgeogram.so.1.9.1-rc</obj>
       <fn>nlSolve</fn>
       <dir>/home/runner/work/geogram/geogram/src/lib/geogram/NL</dir>
       <file>nl_api.c</file>
@@ -185,7 +185,7 @@
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:04.500 </time>
+  <time>00:00:00:05.896 </time>
 </status>
 
 <errorcounts>
