@@ -13,7 +13,7 @@
 </preamble>
 
 <pid>22333</pid>
-<ppid>7273</ppid>
+<ppid>7333</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -41,13 +41,13 @@
 
 <status>
   <state>RUNNING</state>
-  <time>00:00:00:00.025 </time>
+  <time>00:00:00:00.023 </time>
 </status>
 
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:23.095 </time>
+  <time>00:00:00:24.565 </time>
 </status>
 
 <error>
