@@ -52,7 +52,7 @@
 [ 26%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/exact_geometry.cpp.o
 [ 26%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/expansion_nt.cpp.o
 [ 27%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/lbfgs_optimizers.cpp.o
-[ 27%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/matrix_util.cpp.o
+[ 28%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/matrix_util.cpp.o
 [ 28%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/multi_precision.cpp.o
 [ 28%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/optimizer.cpp.o
 [ 29%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/numerics/predicates.cpp.o
@@ -145,8 +145,8 @@
 [ 70%] Building CXX object src/bin/vorpacomp/CMakeFiles/vorpacomp.dir/main.cpp.o
 [ 71%] Linking CXX executable ../../../bin/vorpacomp
 [ 71%] Built target vorpacomp
-[ 72%] Building CXX object src/bin/geodump/CMakeFiles/geodump.dir/main.cpp.o
-[ 73%] Linking CXX executable ../../../bin/vorpastat
+[ 72%] Linking CXX executable ../../../bin/vorpastat
+[ 73%] Building CXX object src/bin/geodump/CMakeFiles/geodump.dir/main.cpp.o
 [ 73%] Built target vorpastat
 [ 73%] Building CXX object src/bin/vorpalite/CMakeFiles/vorpalite.dir/main.cpp.o
 [ 73%] Linking CXX executable ../../../bin/geodump
@@ -154,15 +154,15 @@
 [ 74%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/main.cpp.o
 [ 75%] Linking CXX executable ../../../bin/vorpalite
 [ 75%] Built target vorpalite
-[ 75%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/nn_search_ANN.cpp.o
 [ 76%] Building CXX object src/tests/test_convex_cell/CMakeFiles/test_convex_cell.dir/main.cpp.o
+[ 76%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/nn_search_ANN.cpp.o
 [ 77%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/ANN.cpp.o
 [ 77%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/bd_fix_rad_search.cpp.o
 [ 78%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/bd_pr_search.cpp.o
 [ 78%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/bd_search.cpp.o
 [ 78%] Linking CXX executable ../../../bin/test_convex_cell
+[ 78%] Built target test_convex_cell
 [ 79%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/bd_tree.cpp.o
-[ 79%] Built target test_convex_cell
 [ 79%] Building CXX object src/tests/bench_load/CMakeFiles/bench_load.dir/main.cpp.o
 [ 79%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/brute.cpp.o
 [ 80%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/kd_dump.cpp.o
