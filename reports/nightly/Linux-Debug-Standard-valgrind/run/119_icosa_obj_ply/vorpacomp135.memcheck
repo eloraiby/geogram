@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/bin/vorpacomp tolerance=0.000001 /home/runner/work/geogram/geogram/tests/data/Small/icosa.obj out.ply</line>
 </preamble>
 
-<pid>18976</pid>
-<ppid>12322</ppid>
+<pid>18959</pid>
+<ppid>12299</ppid>
 <tool>memcheck</tool>
 
 <args>
