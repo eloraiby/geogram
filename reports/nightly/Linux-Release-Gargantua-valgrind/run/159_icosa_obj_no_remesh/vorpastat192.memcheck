@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/vorpastat /home/runner/work/geogram/geogram/tests/data/Small/icosa.obj out.meshb</line>
 </preamble>
 
-<pid>12783</pid>
-<ppid>6668</ppid>
+<pid>12527</pid>
+<ppid>6393</ppid>
 <tool>memcheck</tool>
 
 <args>
