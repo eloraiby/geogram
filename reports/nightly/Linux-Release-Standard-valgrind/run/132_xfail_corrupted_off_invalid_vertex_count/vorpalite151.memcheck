@@ -12,7 +12,7 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/vorpalite remesh=false /home/runner/work/geogram/geogram/tests/data/Small/corrupted_invalid_vertex_count.off out.meshb</line>
 </preamble>
 
-<pid>17809</pid>
+<pid>17785</pid>
 <ppid>12346</ppid>
 <tool>memcheck</tool>
 
