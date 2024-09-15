@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/compute_delaunay /home/runner/work/geogram/geogram/tests/data/Small/joint.off dbg:delaunay_benchmark=true dimension=2</line>
 </preamble>
 
-<pid>17457</pid>
-<ppid>12057</ppid>
+<pid>17701</pid>
+<ppid>12076</ppid>
 <tool>memcheck</tool>
 
 <args>
