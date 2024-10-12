@@ -21,8 +21,8 @@
 [ 11%] Building CXX object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/PoissonRecon/poisson_geogram.cpp.o
 [ 11%] Building CXX object src/lib/geogram/third_party/CMakeFiles/geogram_third_party.dir/xatlas/xatlas.cpp.o
 [ 11%] Built target geogram_third_party
-[ 12%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/android_utils.cpp.o
 [ 12%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/algorithm.cpp.o
+[ 12%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/android_utils.cpp.o
 [ 13%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/assert.cpp.o
 [ 13%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/attributes.cpp.o
 [ 14%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/b_stream.cpp.o
@@ -64,8 +64,8 @@
 [ 32%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_decimate.cpp.o
 [ 32%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_degree3_vertices.cpp.o
 [ 33%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_distance.cpp.o
+[ 33%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_fill_holes.cpp.o
 [ 34%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_frame_field.cpp.o
-[ 34%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_fill_holes.cpp.o
 [ 34%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_geometry.cpp.o
 [ 35%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_halfedges.cpp.o
 [ 35%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/mesh/mesh_io.cpp.o
