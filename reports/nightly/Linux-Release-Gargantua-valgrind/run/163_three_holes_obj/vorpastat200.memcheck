@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/vorpastat /home/runner/work/geogram/geogram/tests/data/Small/three_holes.obj out.meshb</line>
 </preamble>
 
-<pid>16731</pid>
-<ppid>6435</ppid>
+<pid>16762</pid>
+<ppid>6480</ppid>
 <tool>memcheck</tool>
 
 <args>
