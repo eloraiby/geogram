@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/vorpalite remesh=false /home/runner/work/geogram/geogram/tests/data/Small/corrupted_invalid_double.off out.meshb</line>
 </preamble>
 
-<pid>12111</pid>
-<ppid>6595</ppid>
+<pid>12299</pid>
+<ppid>6555</ppid>
 <tool>memcheck</tool>
 
 <args>
