@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/bin/test_nn_search</line>
 </preamble>
 
-<pid>6520</pid>
-<ppid>6392</ppid>
+<pid>6511</pid>
+<ppid>6382</ppid>
 <tool>memcheck</tool>
 
 <args>
