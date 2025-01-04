@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/vorpalite profile=convert remesh=false /home/runner/work/geogram/geogram/tests/data/Small/icosa.obj out.eobj</line>
 </preamble>
 
-<pid>11990</pid>
-<ppid>6467</ppid>
+<pid>11958</pid>
+<ppid>6433</ppid>
 <tool>memcheck</tool>
 
 <args>
