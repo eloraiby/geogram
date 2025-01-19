@@ -13,7 +13,7 @@
 </preamble>
 
 <pid>6623</pid>
-<ppid>6456</ppid>
+<ppid>6457</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -41,11 +41,11 @@
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:02:10.976 </time>
+  <time>00:00:02:12.130 </time>
 </status>
 
 <error>
-  <unique>0x95</unique>
+  <unique>0x94</unique>
   <tid>1</tid>
   <kind>Leak_DefinitelyLost</kind>
   <xwhat>
@@ -159,7 +159,7 @@
     <name>Vorpaline_gomp_64bits_leak_2</name>
   </pair>
   <pair>
-    <count>148</count>
+    <count>147</count>
     <name>ZLIB uninitialized memory read</name>
   </pair>
 </suppcounts>
