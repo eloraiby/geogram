@@ -36,8 +36,8 @@
 [ 18%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/factory.cpp.o
 [ 18%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/file_system.cpp.o
 [ 19%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/geofile.cpp.o
+[ 19%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/geometry.cpp.o
 [ 20%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/line_stream.cpp.o
-[ 20%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/geometry.cpp.o
 [ 20%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/logger.cpp.o
 [ 21%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/numeric.cpp.o
 [ 21%] Building CXX object src/lib/geogram/CMakeFiles/geogram.dir/basic/packed_arrays.cpp.o
@@ -169,8 +169,8 @@
 [ 79%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/brute.cpp.o
 [ 80%] Building CXX object src/tests/test_locks/CMakeFiles/test_locks.dir/main.cpp.o
 [ 81%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/kd_dump.cpp.o
-[ 81%] Linking CXX executable ../../../bin/test_locks
 [ 81%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/kd_fix_rad_search.cpp.o
+[ 81%] Linking CXX executable ../../../bin/test_locks
 [ 81%] Built target test_locks
 [ 82%] Building CXX object src/tests/test_expansion_nt/CMakeFiles/test_expansion_nt.dir/main.cpp.o
 [ 83%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/kd_pr_search.cpp.o
@@ -184,8 +184,8 @@
 [ 86%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/kd_split.cpp.o
 [ 86%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/kd_tree.cpp.o
 [ 87%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/kd_util.cpp.o
-[ 87%] Linking CXX executable ../../../bin/test_RVC
 [ 87%] Building CXX object src/tests/test_nn_search/CMakeFiles/test_nn_search.dir/third_party/ANN/perf.cpp.o
+[ 87%] Linking CXX executable ../../../bin/test_RVC
 [ 87%] Built target test_RVC
 [ 88%] Building CXX object src/tests/test_logger/CMakeFiles/test_logger.dir/main.cpp.o
 [ 89%] Linking CXX executable ../../../bin/test_nn_search
@@ -220,8 +220,8 @@
 [ 99%] Building CXX object src/examples/geogram/boolean_operations/CMakeFiles/boolean_op.dir/main.cpp.o
 [ 99%] Linking CXX executable ../../../../bin/simple_raytrace
 [ 99%] Built target simple_raytrace
-[ 99%] Linking CXX executable ../../../../bin/boolean_op
 [100%] Building CXX object src/examples/geogram/intersect/CMakeFiles/intersect.dir/main.cpp.o
+[100%] Linking CXX executable ../../../../bin/boolean_op
 [100%] Built target boolean_op
 [100%] Linking CXX executable ../../../../bin/intersect
 [100%] Built target intersect
