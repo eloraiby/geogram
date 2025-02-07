@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Release/bin/intersect remove_internal_shells=true /home/runner/work/geogram/geogram/tests/data/Intersections/classif_2.obj</line>
 </preamble>
 
-<pid>12371</pid>
-<ppid>6794</ppid>
+<pid>12279</pid>
+<ppid>6690</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -42,7 +42,7 @@
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:08.349 </time>
+  <time>00:00:00:08.256 </time>
 </status>
 
 <error>
@@ -99,7 +99,7 @@
       <ip>0x52D2608</ip>
       <obj>/usr/lib/x86_64-linux-gnu/libpthread-2.31.so</obj>
       <fn>start_thread</fn>
-      <dir>/build/glibc-LcI20x/glibc-2.31/nptl</dir>
+      <dir>/build/glibc-FcRMwW/glibc-2.31/nptl</dir>
       <file>pthread_create.c</file>
       <line>477</line>
     </frame>
@@ -107,7 +107,7 @@
       <ip>0x51F5352</ip>
       <obj>/usr/lib/x86_64-linux-gnu/libc-2.31.so</obj>
       <fn>clone</fn>
-      <dir>/build/glibc-LcI20x/glibc-2.31/misc/../sysdeps/unix/sysv/linux/x86_64</dir>
+      <dir>/build/glibc-FcRMwW/glibc-2.31/misc/../sysdeps/unix/sysv/linux/x86_64</dir>
       <file>clone.S</file>
       <line>95</line>
     </frame>
