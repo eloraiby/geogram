@@ -12,8 +12,8 @@
   <line>Command: /home/runner/work/geogram/geogram/build/Linux64-gcc-dynamic-Debug/bin/test_nn_search /home/runner/work/geogram/geogram/tests/data/RVD/grid1.obj /home/runner/work/geogram/geogram/tests/data/RVD/grid2.obj</line>
 </preamble>
 
-<pid>12370</pid>
-<ppid>12119</ppid>
+<pid>12406</pid>
+<ppid>12161</ppid>
 <tool>memcheck</tool>
 
 <args>
